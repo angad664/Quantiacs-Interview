@@ -1,5 +1,5 @@
 # Quantiacs-Interview
-ou will write a Python function that accepts as input a list of lists
+Write a Python function that accepts as input a list of lists
 and returns a new list of lists where each list in the output is a
 combination of elements from the input lists. 
 For example, if you were passed:
